@@ -1,4 +1,4 @@
-Modified OpenAI Gym environments.
+Modified OpenAI Gym environments.  
 Includes original source code from https://github.com/openai/gym/
 
 # Environments
@@ -11,5 +11,5 @@ Includes original source code from https://github.com/openai/gym/
 pip install -e .
 
 # Usage
-import gym_mod
+import gym_mod  
 env = gym.make("LunarLanderVar-v2")
