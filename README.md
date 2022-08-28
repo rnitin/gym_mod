@@ -1,5 +1,5 @@
 Modified OpenAI Gym environments.
-Original source code from https://github.com/openai/gym/
+Includes original source code from https://github.com/openai/gym/
 
 # Environments
 1. LunarLanderVar-v2
